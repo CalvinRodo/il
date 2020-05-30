@@ -5,7 +5,7 @@
 To install il run the following command: 
 
 ```bash
-ln -s *.sh ~/.bin
+ln -s <GITHUB REPO LOCATION>/sh/*.sh ~/.bin
 ```
 
 Add `~/.bin` to your path if it's not there 
